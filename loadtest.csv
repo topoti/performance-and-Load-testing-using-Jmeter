@@ -1,0 +1,114 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1675976132240,5128,https://profile.w3schools.com/log-in?redirect_url=https%3A%2F%2Fmy-learning.w3schools.com,200,OK,Thread Group 1-1,text,true,,1753680,4276,1,1,https://profile.w3schools.com/log-in?redirect_url=https%3A%2F%2Fmy-learning.w3schools.com,3003,0,1338
+1675976132240,3125,https://profile.w3schools.com/log-in?redirect_url=https%3A%2F%2Fmy-learning.w3schools.com-0,200,OK,Thread Group 1-1,text,true,,2722,561,1,1,https://profile.w3schools.com/log-in?redirect_url=https%3A%2F%2Fmy-learning.w3schools.com,3003,0,1338
+1675976135429,67,https://profile.w3schools.com/log-in?redirect_url=https%3A%2F%2Fmy-learning.w3schools.com-1,200,OK,Thread Group 1-1,bin,true,,16057,513,1,1,https://profile.w3schools.com/favicon.ico,67,0,0
+1675976135429,870,https://profile.w3schools.com/log-in?redirect_url=https%3A%2F%2Fmy-learning.w3schools.com-2,200,OK,Thread Group 1-1,text,true,,113585,528,1,1,https://www.googletagmanager.com/gtag/js?id=UA-3855518-1,250,0,153
+1675976135429,215,https://profile.w3schools.com/log-in?redirect_url=https%3A%2F%2Fmy-learning.w3schools.com-3,200,OK,Thread Group 1-1,text,true,,24414,555,1,1,https://static.zdassets.com/ekr/snippet.js?key=41c2038e-584a-4eb0-b6fe-696d291af18b,211,0,150
+1675976135431,176,https://profile.w3schools.com/log-in?redirect_url=https%3A%2F%2Fmy-learning.w3schools.com-4,200,OK,Thread Group 1-1,text,true,,792,514,1,1,https://profile.w3schools.com/datalayer.js,176,0,124
+1675976135431,1315,https://profile.w3schools.com/log-in?redirect_url=https%3A%2F%2Fmy-learning.w3schools.com-5,200,OK,Thread Group 1-1,text,true,,1233982,528,1,1,https://profile.w3schools.com/static/js/main.8c2ae448.js,194,0,132
+1675976135431,1937,https://profile.w3schools.com/log-in?redirect_url=https%3A%2F%2Fmy-learning.w3schools.com-6,200,OK,Thread Group 1-1,text,true,,362128,1077,1,1,https://profile.w3schools.com/static/css/main.f7132027.css,180,0,121
+1675976135431,756,https://profile.w3schools.com/log-in?redirect_url=https%3A%2F%2Fmy-learning.w3schools.com-0,200,OK,,text,true,,352532,530,0,0,https://profile.w3schools.com/static/css/main.f7132027.css,180,0,121
+1675976137118,250,https://profile.w3schools.com/log-in?redirect_url=https%3A%2F%2Fmy-learning.w3schools.com-1,200,OK,ResDownload-Thread-7,text,true,,9596,547,0,0,"https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,500,600,700",248,0,156
+1675976137391,1417,https://my-learning-legacy.w3schools.com/api/user/check-creds/,200,OK,Thread Group 1-1,text,true,,769,521,1,1,https://my-learning-legacy.w3schools.com/api/user/check-creds/,1416,0,1120
+1675976138809,860,https://profile.w3schools.com/api/user,200,OK,Thread Group 1-1,text,true,,611,1403,1,1,https://profile.w3schools.com/api/user,860,0,0
+1675976156695,3304,https://my-learning.w3schools.com/,200,OK,Thread Group 1-1,text,true,,2111456,5569,1,1,https://my-learning.w3schools.com/,683,0,620
+1675976156695,683,https://my-learning.w3schools.com/-0,200,OK,Thread Group 1-1,text,true,,6288,506,1,1,https://my-learning.w3schools.com/,683,0,620
+1675976157395,73,https://my-learning.w3schools.com/-1,200,OK,Thread Group 1-1,bin,true,,16044,517,1,1,https://my-learning.w3schools.com/favicon.ico,73,0,0
+1675976157399,179,https://my-learning.w3schools.com/-2,304,Not Modified,Thread Group 1-1,,true,,927,656,1,1,https://static.zdassets.com/ekr/snippet.js?key=41c2038e-584a-4eb0-b6fe-696d291af18b,0,0,120
+1675976157398,589,https://my-learning.w3schools.com/-3,200,OK,Thread Group 1-1,text,true,,87873,1134,1,1,https://my-learning.w3schools.com/static/css/6.4d9ac4df.chunk.css,287,0,222
+1675976157398,350,https://my-learning.w3schools.com/-0,200,OK,,text,true,,78277,537,0,0,https://my-learning.w3schools.com/static/css/6.4d9ac4df.chunk.css,287,0,222
+1675976157895,92,https://my-learning.w3schools.com/-1,200,OK,ResDownload-Thread-3,text,true,,9596,597,0,0,"https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,500,600,700",83,0,0
+1675976157401,2598,https://my-learning.w3schools.com/-4,200,OK,Thread Group 1-1,text,true,,182735,1683,1,1,https://my-learning.w3schools.com/static/css/main.77cffc83.chunk.css,2045,0,215
+1675976157401,2168,https://my-learning.w3schools.com/-0,200,OK,,text,true,,170290,540,0,0,https://my-learning.w3schools.com/static/css/main.77cffc83.chunk.css,2045,0,215
+1675976159782,88,https://my-learning.w3schools.com/-1,200,OK,ResDownload-Thread-4,text,true,,9596,597,0,0,"https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,500,600,700",80,0,0
+1675976159783,216,https://my-learning.w3schools.com/-2,200,OK,ResDownload-Thread-4,text,true,,2849,546,0,0,https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500&display=swap,216,0,135
+1675976157402,1588,https://my-learning.w3schools.com/-5,200,OK,Thread Group 1-1,text,true,,1804664,535,1,1,https://my-learning.w3schools.com/static/js/6.bc59830b.chunk.js,338,0,213
+1675976157403,275,https://my-learning.w3schools.com/-6,200,OK,Thread Group 1-1,text,true,,12925,538,1,1,https://my-learning.w3schools.com/static/js/main.64a60624.chunk.js,275,0,212
+1675976160033,2112,https://myl-api.w3schools.com/api/user/state,200,OK,Thread Group 1-1,text,true,,2556,1556,1,1,https://myl-api.w3schools.com/api/user/state,1848,0,1496
+1675976162148,1636,https://cert-api.w3schools.com/certifications-state,200,OK,Thread Group 1-1,text,true,,195,1640,1,1,https://cert-api.w3schools.com/certifications-state,1636,0,1009
+1675976173572,3145,https://w3schools.com/,200,OK,Thread Group 1-1,text,true,,2238629,12006,1,1,https://www.w3schools.com:443/,952,0,718
+1675976173572,952,https://w3schools.com/-0,301,Moved Permanently,Thread Group 1-1,text,true,,337,494,1,1,https://w3schools.com/,952,0,718
+1675976174525,329,https://w3schools.com/-1,200,OK,Thread Group 1-1,text,true,,120394,502,1,1,https://www.w3schools.com:443/,265,0,202
+1675976174953,60,https://w3schools.com/-2,200,OK,Thread Group 1-1,bin,true,,15889,513,1,1,https://www.w3schools.com:443/favicon.ico,60,0,0
+1675976174953,262,https://w3schools.com/-3,200,OK,Thread Group 1-1,text,true,,64084,521,1,1,https://www.w3schools.com:443/lib/w3schools31.css,206,0,146
+1675976174953,331,https://w3schools.com/-4,200,OK,Thread Group 1-1,text,true,,16231,530,1,1,https://cdn.snigelweb.com/adengine/w3schools.com/loader.js,329,0,271
+1675976174955,214,https://w3schools.com/-5,200,OK,Thread Group 1-1,text,true,,3311,528,1,1,https://www.w3schools.com:443/lib/common-deps.js?v=1.0.0,214,0,155
+1675976174957,221,https://w3schools.com/-6,200,OK,Thread Group 1-1,text,true,,9426,529,1,1,https://www.w3schools.com:443/lib/user-session.js?v=1.0.2,221,0,163
+1675976174956,207,https://w3schools.com/-7,200,OK,Thread Group 1-1,text,true,,19145,529,1,1,https://www.w3schools.com:443/lib/my-learning.js?v=1.0.11,207,0,144
+1675976175014,347,https://w3schools.com/-8,200,OK,Thread Group 1-1,bin,true,,209732,516,1,1,https://www.w3schools.com:443/codeeditor.gif,219,0,156
+1675976175166,1172,https://w3schools.com/-9,200,OK,Thread Group 1-1,bin,true,,136529,517,1,1,https://www.w3schools.com:443/tryit/best2.gif,206,0,145
+1675976175170,1419,https://w3schools.com/-10,200,OK,Thread Group 1-1,bin,true,,1235657,526,1,1,https://www.w3schools.com:443/spaces/dynamicspaces.gif,197,0,138
+1675976175178,210,https://w3schools.com/-11,200,OK,Thread Group 1-1,bin,true,,21711,523,1,1,https://www.w3schools.com:443/how-spaces-works3.png,198,0,137
+1675976175285,268,https://w3schools.com/-12,200,OK,Thread Group 1-1,bin,true,,41525,519,1,1,https://www.w3schools.com:443/myl-green-off.png,197,0,134
+1675976175289,453,https://w3schools.com/-13,200,OK,Thread Group 1-1,text,true,,1189,534,1,1,https://www.w3schools.com:443/spaces/files/check3.db67d31e.svg,453,0,140
+1675976175363,60,https://w3schools.com/-14,200,OK,Thread Group 1-1,bin,true,,13621,524,1,1,https://www.w3schools.com:443/images/colorpicker.png,60,0,0
+1675976175388,59,https://w3schools.com/-15,200,OK,Thread Group 1-1,bin,true,,14050,523,1,1,https://www.w3schools.com:443/images/w3lynx_200.png,59,0,0
+1675976175437,1280,https://w3schools.com/-16,200,OK,Thread Group 1-1,bin,true,,62188,521,1,1,https://www.w3schools.com:443/w3css_templates.jpg,475,0,0
+1675976175448,1149,https://w3schools.com/-17,200,OK,Thread Group 1-1,text,true,,150967,2117,1,1,https://www.w3schools.com:443/howto/tryhow_js_slideshow_ifr.htm,94,0,0
+1675976175448,94,https://w3schools.com/-0,200,OK,,text,true,,4007,535,0,0,https://www.w3schools.com:443/howto/tryhow_js_slideshow_ifr.htm,94,0,0
+1675976175545,603,https://w3schools.com/-1,200,OK,ResDownload-Thread-6,bin,true,,52333,527,0,0,https://www.w3schools.com:443/howto/img_nature_wide.jpg,160,0,0
+1675976175545,88,https://w3schools.com/-2,200,OK,ResDownload-Thread-6,bin,true,,33741,525,0,0,https://www.w3schools.com:443/howto/img_snow_wide.jpg,73,0,0
+1675976175547,1050,https://w3schools.com/-3,200,OK,ResDownload-Thread-6,bin,true,,60886,530,0,0,https://www.w3schools.com:443/howto/img_mountains_wide.jpg,101,0,0
+1675976175554,522,https://w3schools.com/-18,200,OK,Thread Group 1-1,text,true,,70634,520,1,1,https://www.w3schools.com:443/lib/uic.js?v=1.0.5,252,0,0
+1675976175742,728,https://w3schools.com/-19,200,OK,Thread Group 1-1,text,true,,32009,520,1,1,https://www.w3schools.com:443/lib/w3codecolor.js,653,0,0
+1675976188938,699,https://www.w3schools.com/html/default.asp,200,OK,Thread Group 1-1,text,true,,527780,6874,1,1,https://www.w3schools.com/html/default.asp,198,0,134
+1675976188938,259,https://www.w3schools.com/html/default.asp-0,200,OK,Thread Group 1-1,text,true,,102147,514,1,1,https://www.w3schools.com/html/default.asp,198,0,134
+1675976189223,60,https://www.w3schools.com/html/default.asp-1,200,OK,Thread Group 1-1,bin,true,,15889,509,1,1,https://www.w3schools.com/favicon.ico,59,0,0
+1675976189223,262,https://www.w3schools.com/html/default.asp-2,200,OK,Thread Group 1-1,text,true,,64084,517,1,1,https://www.w3schools.com/lib/w3schools31.css,201,0,132
+1675976189224,244,https://www.w3schools.com/html/default.asp-3,200,OK,Thread Group 1-1,text,true,,70634,516,1,1,https://www.w3schools.com/lib/uic.js?v=1.0.5,187,0,125
+1675976189223,174,https://www.w3schools.com/html/default.asp-4,304,Not Modified,Thread Group 1-1,,true,,470,619,1,1,https://cdn.snigelweb.com/adengine/w3schools.com/loader.js,0,0,112
+1675976189225,188,https://www.w3schools.com/html/default.asp-5,200,OK,Thread Group 1-1,text,true,,3311,524,1,1,https://www.w3schools.com/lib/common-deps.js?v=1.0.0,188,0,125
+1675976189225,200,https://www.w3schools.com/html/default.asp-6,200,OK,Thread Group 1-1,text,true,,9426,525,1,1,https://www.w3schools.com/lib/user-session.js?v=1.0.2,199,0,134
+1675976189288,64,https://www.w3schools.com/html/default.asp-7,200,OK,Thread Group 1-1,text,true,,19145,525,1,1,https://www.w3schools.com/lib/my-learning.js?v=1.0.11,64,0,0
+1675976189353,70,https://www.w3schools.com/html/default.asp-8,200,OK,Thread Group 1-1,bin,true,,64181,519,1,1,https://www.w3schools.com/images/mylearning.png,68,0,0
+1675976189397,240,https://www.w3schools.com/html/default.asp-9,200,OK,Thread Group 1-1,bin,true,,47522,524,1,1,https://www.w3schools.com/images/img_backend_300.png,188,0,123
+1675976189425,60,https://www.w3schools.com/html/default.asp-10,200,OK,Thread Group 1-1,bin,true,,9100,524,1,1,https://www.w3schools.com/images/colorpicker2000.png,60,0,0
+1675976189426,69,https://www.w3schools.com/html/default.asp-11,200,OK,Thread Group 1-1,bin,true,,59218,521,1,1,https://www.w3schools.com/images/img_subs_300.png,63,0,0
+1675976189426,120,https://www.w3schools.com/html/default.asp-12,200,OK,Thread Group 1-1,text,true,,62653,537,1,1,https://www.w3schools.com/lib/w3schools_footer.js?update=20220202,62,0,0
+1675976189639,270,https://myl-api.w3schools.com/api/classic/get-set-topic-progress,401,Unauthorized,Thread Group 1-1,text,false,,237,499,1,1,https://myl-api.w3schools.com/api/classic/get-set-topic-progress,270,0,0
+1675976193075,268,https://www.w3schools.com/css/default.asp,200,OK,Thread Group 1-1,text,true,,110728,7874,1,1,https://www.w3schools.com/css/default.asp,61,0,0
+1675976193075,117,https://www.w3schools.com/css/default.asp-0,200,OK,Thread Group 1-1,text,true,,105323,513,1,1,https://www.w3schools.com/css/default.asp,61,0,0
+1675976193222,58,https://www.w3schools.com/css/default.asp-1,304,Not Modified,Thread Group 1-1,,true,,442,594,1,1,https://www.w3schools.com/favicon.ico,0,0,0
+1675976193222,57,https://www.w3schools.com/css/default.asp-2,304,Not Modified,Thread Group 1-1,,true,,454,613,1,1,https://www.w3schools.com/lib/w3schools31.css,0,0,0
+1675976193224,58,https://www.w3schools.com/css/default.asp-3,304,Not Modified,Thread Group 1-1,,true,,455,612,1,1,https://www.w3schools.com/lib/uic.js?v=1.0.5,0,0,0
+1675976193224,55,https://www.w3schools.com/css/default.asp-4,304,Not Modified,Thread Group 1-1,,true,,470,619,1,1,https://cdn.snigelweb.com/adengine/w3schools.com/loader.js,0,0,0
+1675976193226,58,https://www.w3schools.com/css/default.asp-5,304,Not Modified,Thread Group 1-1,,true,,454,620,1,1,https://www.w3schools.com/lib/common-deps.js?v=1.0.0,0,0,0
+1675976193226,60,https://www.w3schools.com/css/default.asp-6,304,Not Modified,Thread Group 1-1,,true,,454,621,1,1,https://www.w3schools.com/lib/user-session.js?v=1.0.2,0,0,0
+1675976193280,58,https://www.w3schools.com/css/default.asp-7,304,Not Modified,Thread Group 1-1,,true,,454,621,1,1,https://www.w3schools.com/lib/my-learning.js?v=1.0.11,0,0,0
+1675976193280,58,https://www.w3schools.com/css/default.asp-8,304,Not Modified,Thread Group 1-1,,true,,442,604,1,1,https://www.w3schools.com/images/mylearning.png,0,0,0
+1675976193280,60,https://www.w3schools.com/css/default.asp-9,304,Not Modified,Thread Group 1-1,,true,,442,609,1,1,https://www.w3schools.com/images/img_backend_300.png,0,0,0
+1675976193282,58,https://www.w3schools.com/css/default.asp-10,304,Not Modified,Thread Group 1-1,,true,,442,609,1,1,https://www.w3schools.com/images/colorpicker2000.png,0,0,0
+1675976193285,57,https://www.w3schools.com/css/default.asp-11,304,Not Modified,Thread Group 1-1,,true,,442,606,1,1,https://www.w3schools.com/images/img_subs_300.png,0,0,0
+1675976193286,57,https://www.w3schools.com/css/default.asp-12,304,Not Modified,Thread Group 1-1,,true,,454,633,1,1,https://www.w3schools.com/lib/w3schools_footer.js?update=20220202,0,0,0
+1675976193349,269,https://myl-api.w3schools.com/api/classic/get-set-topic-progress,401,Unauthorized,Thread Group 1-1,text,false,,237,496,1,1,https://myl-api.w3schools.com/api/classic/get-set-topic-progress,269,0,0
+1675976208052,309,https://www.w3schools.com/js/default.asp,200,OK,Thread Group 1-1,text,true,,110554,7873,1,1,https://www.w3schools.com/js/default.asp,71,0,0
+1675976208052,139,https://www.w3schools.com/js/default.asp-0,200,OK,Thread Group 1-1,text,true,,105149,512,1,1,https://www.w3schools.com/js/default.asp,71,0,0
+1675976208233,58,https://www.w3schools.com/js/default.asp-1,304,Not Modified,Thread Group 1-1,,true,,442,594,1,1,https://www.w3schools.com/favicon.ico,0,0,0
+1675976208233,58,https://www.w3schools.com/js/default.asp-2,304,Not Modified,Thread Group 1-1,,true,,454,613,1,1,https://www.w3schools.com/lib/w3schools31.css,0,0,0
+1675976208236,59,https://www.w3schools.com/js/default.asp-3,304,Not Modified,Thread Group 1-1,,true,,455,612,1,1,https://www.w3schools.com/lib/uic.js?v=1.0.5,0,0,0
+1675976208239,63,https://www.w3schools.com/js/default.asp-4,304,Not Modified,Thread Group 1-1,,true,,470,619,1,1,https://cdn.snigelweb.com/adengine/w3schools.com/loader.js,0,0,0
+1675976208241,61,https://www.w3schools.com/js/default.asp-5,304,Not Modified,Thread Group 1-1,,true,,454,620,1,1,https://www.w3schools.com/lib/common-deps.js?v=1.0.0,0,0,0
+1675976208244,58,https://www.w3schools.com/js/default.asp-6,304,Not Modified,Thread Group 1-1,,true,,454,621,1,1,https://www.w3schools.com/lib/user-session.js?v=1.0.2,0,0,0
+1675976208291,58,https://www.w3schools.com/js/default.asp-7,304,Not Modified,Thread Group 1-1,,true,,454,621,1,1,https://www.w3schools.com/lib/my-learning.js?v=1.0.11,0,0,0
+1675976208292,59,https://www.w3schools.com/js/default.asp-8,304,Not Modified,Thread Group 1-1,,true,,442,604,1,1,https://www.w3schools.com/images/mylearning.png,0,0,0
+1675976208295,58,https://www.w3schools.com/js/default.asp-9,304,Not Modified,Thread Group 1-1,,true,,442,609,1,1,https://www.w3schools.com/images/img_backend_300.png,0,0,0
+1675976208303,58,https://www.w3schools.com/js/default.asp-10,304,Not Modified,Thread Group 1-1,,true,,442,609,1,1,https://www.w3schools.com/images/colorpicker2000.png,0,0,0
+1675976208302,57,https://www.w3schools.com/js/default.asp-11,304,Not Modified,Thread Group 1-1,,true,,442,606,1,1,https://www.w3schools.com/images/img_subs_300.png,0,0,0
+1675976208302,59,https://www.w3schools.com/js/default.asp-12,304,Not Modified,Thread Group 1-1,,true,,454,633,1,1,https://www.w3schools.com/lib/w3schools_footer.js?update=20220202,0,0,0
+1675976208366,269,https://myl-api.w3schools.com/api/classic/get-set-topic-progress,401,Unauthorized,Thread Group 1-1,text,false,,237,493,1,1,https://myl-api.w3schools.com/api/classic/get-set-topic-progress,269,0,0
+1675976217477,586,https://www.w3schools.com/sql/default.asp,200,OK,Thread Group 1-1,text,true,,123680,7874,1,1,https://www.w3schools.com/sql/default.asp,65,0,0
+1675976217477,437,https://www.w3schools.com/sql/default.asp-0,200,OK,Thread Group 1-1,text,true,,118275,513,1,1,https://www.w3schools.com/sql/default.asp,65,0,0
+1675976217933,58,https://www.w3schools.com/sql/default.asp-1,304,Not Modified,Thread Group 1-1,,true,,442,594,1,1,https://www.w3schools.com/favicon.ico,0,0,0
+1675976217935,60,https://www.w3schools.com/sql/default.asp-2,304,Not Modified,Thread Group 1-1,,true,,454,613,1,1,https://www.w3schools.com/lib/w3schools31.css,0,0,0
+1675976217937,67,https://www.w3schools.com/sql/default.asp-3,304,Not Modified,Thread Group 1-1,,true,,455,612,1,1,https://www.w3schools.com/lib/uic.js?v=1.0.5,0,0,0
+1675976217939,63,https://www.w3schools.com/sql/default.asp-4,304,Not Modified,Thread Group 1-1,,true,,470,619,1,1,https://cdn.snigelweb.com/adengine/w3schools.com/loader.js,0,0,0
+1675976217940,63,https://www.w3schools.com/sql/default.asp-5,304,Not Modified,Thread Group 1-1,,true,,454,620,1,1,https://www.w3schools.com/lib/common-deps.js?v=1.0.0,0,0,0
+1675976217942,60,https://www.w3schools.com/sql/default.asp-6,304,Not Modified,Thread Group 1-1,,true,,454,621,1,1,https://www.w3schools.com/lib/user-session.js?v=1.0.2,0,0,0
+1675976217992,57,https://www.w3schools.com/sql/default.asp-7,304,Not Modified,Thread Group 1-1,,true,,454,621,1,1,https://www.w3schools.com/lib/my-learning.js?v=1.0.11,0,0,0
+1675976217995,59,https://www.w3schools.com/sql/default.asp-8,304,Not Modified,Thread Group 1-1,,true,,442,604,1,1,https://www.w3schools.com/images/mylearning.png,0,0,0
+1675976218002,60,https://www.w3schools.com/sql/default.asp-9,304,Not Modified,Thread Group 1-1,,true,,442,609,1,1,https://www.w3schools.com/images/img_backend_300.png,0,0,0
+1675976218002,57,https://www.w3schools.com/sql/default.asp-10,304,Not Modified,Thread Group 1-1,,true,,442,609,1,1,https://www.w3schools.com/images/colorpicker2000.png,0,0,0
+1675976218004,58,https://www.w3schools.com/sql/default.asp-11,304,Not Modified,Thread Group 1-1,,true,,442,606,1,1,https://www.w3schools.com/images/img_subs_300.png,0,0,0
+1675976218005,58,https://www.w3schools.com/sql/default.asp-12,304,Not Modified,Thread Group 1-1,,true,,454,633,1,1,https://www.w3schools.com/lib/w3schools_footer.js?update=20220202,0,0,0
+1675976218064,267,https://myl-api.w3schools.com/api/classic/get-set-topic-progress,401,Unauthorized,Thread Group 1-1,text,false,,237,496,1,1,https://myl-api.w3schools.com/api/classic/get-set-topic-progress,267,0,0
+1675976132105,20539,Test,,"Number of samples in transaction : 15, number of failing samples : 4",Thread Group 1-1,,false,,6981586,59450,1,1,null,11868,65689,6435
